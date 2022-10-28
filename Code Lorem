@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <><title>PRAKTIKUM TUGAS 2</title>
+        
+        
+    </head>
+<body>
+    <ul>
+        <li>
+            <a hreaf="#">Tentang Saya</a> <br>
+         <ul>
+        <li>
+           <a hreaf="#">Pengalaman Kerja</a> <br>
+         <ul>
+        <li>
+            <a hreaf="#">Hubungi Saya</a> <br>
+             <ul>
+        <li>
+
+            <h1>Tentang Saya</h1>
+            <br>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Ratione recusandae ducimus placeat! fugiat similique minus
+                labore doloremque asse, non impedit dolorum vel natus Quidem
+                dolor! Earum, amet atque eveniet nihil reiciendis nesciunt fugiat
+                valuptate illum animi nulla vel Quamquo nobis optoi quaerat alias 
+                accusantium asperiores laudantium sed reprehenderit sunt?
+                
+</div>
+    <h2>Pengalaman Kerja</h2>
+    <table border="1" width="80%">
+        <tr bgcolor="#ccc" height="40">
+            <th>No</th>
+            <th>Posisi</th>
+            <th>Perusahaan</th>
+            <th>Waktu Mulai dan Selesai</th>
+        </tr>
+        <tr>
+            <td align="center">1</td>
+            <td>Lorren Ipsum Dolor</td>
+            <td>Dicta Madi Maiores</td>
+            <td align="center">1928-1945</td>
+        </tr>
+        <tr>
+            <td align="center">2</td>
+            <td>Id Provident Exceputuri</td>
+            <td>Veniam Dolores Adipisci</td>
+            <td align="center">1945-1973</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
+            <td>Repellendus Debitis Iste</td>
+            <td>Adipisicing Elit Accusamus</td>
+            <td align="center">1973-1982</td>
+        </tr>
+        <tr>
+            <td align="center">4</td>
+            <td>Corporis Quidem Iure</td>
+            <td>Sit Amet Consectetur</td>
+            <td align="center">1982-2022</td>
+        </tr>
+        <tr>
+            <td align="center">5</td>
+            <td>Tenetur Nisi Architecto</td>
+            <td>Lorem Ipsum Dolor</td>
+            <td align="center">2022-2200</td>
+        </tr>
+    </table>
+    <div class="textarea">
+        <h2>Hubungi saya</h2>
+        nama : <input type="text" name="nama" id="nama">
+        <br>
+    </div>
+    <div class="tombol">
+        sudah nonton video saya? <br>
+        <input type="radio" name="foto" value="sudah"> sudah <br>
+        <input type="radio" name="foto" value="belum"> belum 
+        <br> <br>
+        <div class="tombol">
+            sudah nonton video saya? <br>
+            <input type="radio" name="foto" value="sudah"> Ini <br>
+            <input type="radio" name="foto" value="belum"> Itu
+            <input type="radio" name="foto" value="belum"> Anu
+            <br> 
+        
+    <p> ini akhir</p>
+</body>
+</html>
+  
